@@ -1,6 +1,6 @@
 [submodule "DiscordPongUnity"]
 	path = DiscordPongUnity
-	url = ./DiscordPongUnity
+	url = https://github.com/GamerYuan/DiscordPongUnity.git
 [submodule "DiscordPongNode"]
 	path = DiscordPongNode
-	url = ./DiscordPongNode
+	url = https://github.com/GamerYuan/DiscordPongNode.git
