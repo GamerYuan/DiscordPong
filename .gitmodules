@@ -1,0 +1,6 @@
+[submodule "DiscordPongUnity"]
+	path = DiscordPongUnity
+	url = ./DiscordPongUnity
+[submodule "DiscordPongNode"]
+	path = DiscordPongNode
+	url = ./DiscordPongNode
